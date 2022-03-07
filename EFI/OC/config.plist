@@ -1095,18 +1095,18 @@
                 <key>PickerVariant</key>
                 <string>Acidanthera\GoldenGate</string>
                 <key>PollAppleHotKeys</key>
-                <false/>
+                <true/>
                 <key>ShowPicker</key>
-                <false/>
+                <true/>
                 <key>TakeoffDelay</key>
                 <integer>0</integer>
                 <key>Timeout</key>
-                <integer>5</integer>
+                <integer>10</integer>
             </dict>
             <key>Debug</key>
             <dict>
                 <key>AppleDebug</key>
-                <false/>
+                <true/>
                 <key>ApplePanic</key>
                 <true/>
                 <key>DisableWatchDog</key>
@@ -1120,7 +1120,7 @@
                 <key>SysReport</key>
                 <false/>
                 <key>Target</key>
-                <integer>0</integer>
+                <integer>67</integer>
             </dict>
             <key>Entries</key>
             <array>
@@ -1199,7 +1199,7 @@
                     <key>SystemAudioVolume</key>
                     <data>ZA==</data>
                     <key>boot-args</key>
-                    <string>debug=0x100 keepsyms=1 npci=0x2000 rtcfx_exclude=80-E1</string>
+                    <string>-v debug=0x100 keepsyms=1 npci=0x2000 rtcfx_exclude=80-E1</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -1271,13 +1271,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02144700CDJG36JA</string>
+                <string>C02839270GUJG361H</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>XNTbAw80</data>
+                <data>zFYnVRRd</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1285,9 +1285,9 @@
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02GMPZXHX87</string>
+                <string>C02XGXZZHX87</string>
                 <key>SystemUUID</key>
-                <string>E0E6A05B-6345-41F6-B548-EA1E1FAFFC85</string>
+                <string>96CFA29B-30DA-4488-84FF-ACB535ED01C3</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
