@@ -24,8 +24,8 @@ This is the Hackintosh Opencore EFI for the HP Z440 Workstation. Available for m
 
 | Part                                                             | Status | Note                           |
 | ---------------------------------------------------------------- | ------ | -----------                    |
-| RJ45 LAN Port                                                    | ✅     |                                |
-| RJ45 LAN Port                                                    | ✅     |                                |
+| RJ45 LAN Port                                                    | ✅     |                                 |
+| Audio.                                                           | ✅     |  With several patches. No front panel audio.          |
 | Wifi                                                             | ✅     |  With Fenvi T919               |
 | Bluetooth                                                        | ✅     |  With Fenvi T919               |
 | USB                                                              | ✅     |  Except Back USB 2.0           |
